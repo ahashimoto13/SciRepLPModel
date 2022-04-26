@@ -2,7 +2,6 @@ function [closestpts,endpts,time_closest] = run_replicate(initial_point, find_po
 % [x, y, behavior] = run_replicate(initial_point, find_point, map_data, T, p_behavior, alpha, LL)
 % fully run a single replicate for the LP model, returns final x y location and behavior used
 
-
 % define possible motions in body coords
 right = [1;0];
 left = [-1;0];

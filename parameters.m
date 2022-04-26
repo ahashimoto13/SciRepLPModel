@@ -1,5 +1,5 @@
 % behavior combos
-N = 462;
+N = 1;
 % replicates
 reps = 500;
 
